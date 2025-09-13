@@ -1,14 +1,14 @@
 # Mercuriales
-Analyses des Mercuriales ( graphiques, numeriques ) de l'ile de la reunion 
+Analyses des Mercuriales ( graphiques, numeriques ) des UltraMarins
 
 # Install Depedencies 
 
     pip install -r requirements.txt
 
-# Run Program
+# Run Program (example) suivant le Departement ciblé
 
-    chmod +x Merc.py
-    python3 Merc.py
+    chmod +x Reunion.py
+    python3 Reunion.py
 
 <img width="4746" height="3542" alt="mercuriales_evolution_prix" src="https://github.com/user-attachments/assets/132ec7b9-db44-4dd0-9f14-e17fcec379d9" />
 
